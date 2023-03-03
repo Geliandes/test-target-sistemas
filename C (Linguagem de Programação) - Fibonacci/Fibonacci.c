@@ -37,6 +37,9 @@ void main() {
     } else{
         printf("\n\nO número %i NÃO pertence a sequência de Fibonacci.\n", qtd);
     }
+
+    //pausando a tela para que ela não feche automaticamente após a execução
+    system("pause");
 }
 
 //função recursiva de Fibonacci;
