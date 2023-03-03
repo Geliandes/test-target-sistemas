@@ -2,15 +2,14 @@ package application;
 
 import java.util.Scanner;
 
-import entities.Fibonacci;
-
-public class program {
+public class Program {
 
     public static void main(String[] args) {
     	
     	Scanner sc = new Scanner(System.in);
     	
     	System.out.print("Escolha a quantidade de termos: ");
+    	
     	int qtd = sc.nextInt();
     	
     	System.out.println();
@@ -30,6 +29,13 @@ public class program {
         } else {
         	System.out.println("\n\nO número " + qtd + " NÃO pertence a sequência de Fibonacci.");
         }
+        
+        sc.close();
     }
-
+    
+    public class Fibonacci {
+        public static long fibonacci(int n) {
+            return n < 2 ? n : fibonacci(n - 2) + fibonacci(n - 1);
+        }
+    }
 }
