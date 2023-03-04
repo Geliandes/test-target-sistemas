@@ -11,7 +11,7 @@
 - O maior valor de faturamento ocorrido em um dia do mês;
 - Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
->O exercício foi feito em Node.js, o programa lê o arquivo **dados.json** que está na raiz do projeto através do modulo **File System** nativo do Node.js e após a execução, além de trazer as informações no terminal, ele também gera um arquivo **.txt** chamado **Invoicing Average** na raiz do projeto com todas as informações solicitadas.
+>O exercício foi feito em Node.js, o programa importa o arquivo **dados.json** que está na raiz do projeto nativo do Node.js e após a execução, além de trazer as informações no terminal, ele também gera um arquivo **.txt** chamado **Invoicing Average** através do modulo **File System** (nativo do Node.js) na raiz do projeto com todas as informações solicitadas.
 
 ## Visualização e Execução
 
