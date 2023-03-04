@@ -12,12 +12,12 @@
   </div>
 2- Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
-
+<br />
 <br/>
 
-#### O exercício foi feito em C e em Java, ambos são praticamente o mesmo código porém adaptado para cada linguagem. Ambos tem formas de entrada manuais, para que o usuário possa inserir, portanto leia atentamente as instruções para execução logo abaixo.
+> O exercício foi feito em C e em Java, ambos são praticamente o mesmo código porém adaptado para cada linguagem. Ambos tem formas de entrada manuais, para que o usuário possa inserir, portanto leia atentamente as instruções para execução logo abaixo.
 
-<br />
+
 
 ## Visualização e Execução em C
 Para ver o código basta abrir o arquivo **Fibonacci.c**
