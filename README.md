@@ -1,4 +1,4 @@
-# Testes para vaga de Analista de Sistemas da Target Sistemas
+# Testes Target Sistemas
 ## Linguagens utilizadas:
 
 
