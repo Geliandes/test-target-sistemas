@@ -15,7 +15,7 @@
 
 ## Visualização e Execução
 
-- Primeiramente, é importante ter o **Node** instalado no seu computador, após a instalação basta abrir a pasta do projeto com o *Visual Studio Code* e executar os seguintes comandos no terminal:
+- Primeiramente, é necessário ter o **Node** instalado em seu computador, após a instalação basta abrir a pasta do projeto com o *Visual Studio Code* e executar os seguintes comandos no terminal:
 
 **Instalar dependências**
 ```
