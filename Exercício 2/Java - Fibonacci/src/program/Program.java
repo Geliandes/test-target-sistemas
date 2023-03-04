@@ -1,11 +1,15 @@
-package application;
+package program;
 
 import java.util.Scanner;
+
+/**
+ * @author Paulo Geliandes
+ */
 
 public class Program {
 
     public static void main(String[] args) {
-    	
+            	
     	Scanner sc = new Scanner(System.in);
     	
     	System.out.print("Escolha a quantidade de termos: ");
@@ -33,7 +37,8 @@ public class Program {
         sc.close();
     }
     
-    public class Fibonacci {
+    public static class Fibonacci {
+
         public static long fibonacci(int n) {
             return n < 2 ? n : fibonacci(n - 2) + fibonacci(n - 1);
         }

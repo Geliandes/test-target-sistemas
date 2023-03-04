@@ -1,0 +1,11 @@
+{
+  "name": "nodejs---faturamento",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node --no-warnings index"
+  },
+  "author": "",
+  "license": "ISC"
+}
